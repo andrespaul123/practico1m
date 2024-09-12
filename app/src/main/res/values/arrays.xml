@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colorNames">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+        <item>Light Gray</item>
+        <item>Dark Gray</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Marron</item>
+    </string-array>
+
+    <array name="colorValues">
+        <item>@color/colorRed</item>
+        <item>@color/colorBlue</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorYellow</item>
+        <item>@color/colorCyan</item>
+        <item>@color/colorMagenta</item>
+        <item>@color/colorLightGray</item>
+        <item>@color/colorDarkGray</item>
+        <item>@color/colorBlack</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorMarron</item>
+
+    </array>
+</resources>
